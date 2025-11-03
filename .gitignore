@@ -1,0 +1,6 @@
+*.DS_Store
+**/.DS_Store
+project/db-data/
+authentication-service/authApp
+broker-service/brokerApp
+front-end/frontApp
